@@ -3,7 +3,17 @@ guid: 69e0b2c4eb5d9154a82f872d6aebd86b
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_Hub
+    second: {fileID: 2100000, guid: 0c5e65a032db88e40a9119cf6bfc9a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior
+    second: {fileID: 2100000, guid: ee0c99a1e453e55438dc394d1eb5ef3f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
