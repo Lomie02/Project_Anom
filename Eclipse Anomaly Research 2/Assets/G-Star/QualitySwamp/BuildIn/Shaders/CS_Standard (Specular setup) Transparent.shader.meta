@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 096546d5dfa992e469d99847312b90d0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302790
+  packageName: Quality Swamp
+  packageVersion: 1.0
+  assetPath: Assets/G-Star/QualitySwamp/BuildIn/Shaders/CS_Standard (Specular setup)
+    Transparent.shader
+  uploadId: 753290

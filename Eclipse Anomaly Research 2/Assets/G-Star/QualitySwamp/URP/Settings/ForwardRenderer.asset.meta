@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbbb10db413806b4cb6320ae7831a6c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302790
+  packageName: Quality Swamp
+  packageVersion: 1.0
+  assetPath: Assets/G-Star/QualitySwamp/URP/Settings/ForwardRenderer.asset
+  uploadId: 753290

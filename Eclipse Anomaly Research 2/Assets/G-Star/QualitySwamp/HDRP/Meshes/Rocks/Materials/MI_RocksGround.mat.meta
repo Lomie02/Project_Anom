@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6333d61c03791b42bfafa75a6b45214
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302790
+  packageName: Quality Swamp
+  packageVersion: 1.0
+  assetPath: Assets/G-Star/QualitySwamp/HDRP/Meshes/Rocks/Materials/MI_RocksGround.mat
+  uploadId: 753290
